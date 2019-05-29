@@ -47,8 +47,6 @@ public class Main {
         //Ex15 ex15 = new Ex15();
         //ex15.numerosSoma();
 
-        Ex16 ex16 = new Ex16();
-        ex16.numeroDivisivel();
 
         }
     }
