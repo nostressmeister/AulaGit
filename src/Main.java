@@ -47,6 +47,16 @@ public class Main {
         //Ex15 ex15 = new Ex15();
         //ex15.numerosSoma();
 
+//        ConexaoH2 conexaoH2 = new ConexaoH2();
+//        conexaoH2.insert();
+        //conexaoH2.delet();
+        //conexaoH2.select();
+        //conexaoH2.selectOne();
+        //conexaoH2.upDate();
+
+        ConexaoExsql conexaoExsql = new ConexaoExsql();
+        conexaoExsql.insert();
+        conexaoExsql.select();
 
         }
     }
